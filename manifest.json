@@ -18,9 +18,6 @@
   "host_permissions": [
     "<all_urls>"
   ],
-  "permissions": [
-    "cookies"
-  ],
   "content_scripts": [ 
   { 
     "css": ["jquery.dataTables.min.css", "styles.css"],
